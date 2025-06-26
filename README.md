@@ -1,7 +1,3 @@
-Absolutely! Here's a **complete and professional `README.md`** for your project — **Azure Serverless Image Processing Pipeline** — with explanations, usage, and commands that match your real experience (no Python coding assumed).
-
----
-
 ### ✅ `README.md` – Azure Serverless Image Processing Pipeline
 
 ```markdown
